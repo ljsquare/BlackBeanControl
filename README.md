@@ -24,7 +24,7 @@ Dependencies for Windows/Linux:
 - Install configparser package: python -m pip install configparser
 - Install netaddr package: python -m pip install netaddr
 - Install pycrypto package: python -m pip install pycrypto
-- Download python-broadlink package - you can find it on the github by the package name (github user: mjg59)
+- Download python-broadlink package - you can find it on the github by the package name (github user: mjg59) WARNING: use this version https://github.com/mjg59/python-broadlink/tree/8bc67af6d73c75587d40f6dbfa3b975c7d69a8a4 Newer versions won't work
 - Unzip it to some local folder and install it: setup.py install
 
 Now you can clone/download BlackBeanControl (in case you download it as archive, unzip it to some local folder).
